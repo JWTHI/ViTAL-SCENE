@@ -1,0 +1,1 @@
+# TripViTAL-for-Scenario-Novelty-Detection
