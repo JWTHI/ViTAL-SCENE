@@ -4,7 +4,7 @@ This repository provides the triplet autoencoder architecture using vision trans
 
 ## Setup and Train the Network
 1. Clone the repository.
-2. Edit `cu101` in `requirements.txt` to match your cuda version.
+2. Edit `cu101` in `requirements.txt` to match your cuda version (remove if 10.2).
 3. Run `pip install requirements.txt` to install the dependencies. This implementation is based on on pyTorch.
 4. Download the data from https://faubox.rrze.uni-erlangen.de/getlink/fiWu4mseP8uEnNNzJJ2dTqtR/Data.zip and unzip it into a folder `\Data`, rooted in the project directory. 
 5. Run `python main.py` to train the model. Adjust parameters as required in `main.py` and `scenenet.py`.
