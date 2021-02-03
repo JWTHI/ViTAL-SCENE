@@ -30,7 +30,7 @@ class SceneNet(nn.Module):
             patch_size = 8,
             z_dim = z_dim,
             dim = 256,
-            depth = 6,#20,
+            depth = 20,
             heads = 16,
             mlp_dim = 128, 
             channels = 1
