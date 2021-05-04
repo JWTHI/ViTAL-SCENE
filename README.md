@@ -1,6 +1,6 @@
 # ViTAL SCENE: Vision Transformer-Based Triplet Autoencoder Latent Space for Traffic Scenario Novelty Estimation
 
-This repository provides the triplet autoencoder architecture using vision transformer as encoder as presented in "Traffic Scenario Novelty Detection in the Latent Space of a Vision Transformer-Based Autoencoder Triplet Network".
+This repository provides the triplet autoencoder architecture using vision transformer as encoder as presented in "Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder".
 
 ## Setup and Train the Network
 1. Clone the repository.
@@ -18,7 +18,7 @@ If you are using this repository, please cite the work
 ```
 @InProceedings{Wurst2021a,
   author    = {Jonas {Wurst} and Lakshman {Balasubramanian} and Michael {Botsch} and Wolfgang {Utschick}},
-  title     = {Traffic Scenario Novelty Detection in the Latent Space of a Vision Transformer-Based Autoencoder Triplet Network},
+  title     = {Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder},
   booktitle = {2021 IEEE Intelligent Vehicles Symposium (IV)},
   year      = {2021},
 }
